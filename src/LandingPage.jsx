@@ -7,32 +7,32 @@ const menu = {
   models: [
     {
       model: "Model S",
-      image: "../../assets/tesla-1.jpeg",
+      image: "/tesla-1.jpeg",
       tagline: "Leasing starting at $349/mo",
     },
     {
       model: "Model 3",
-      image: "../../assets/tesla-2.jpeg",
+      image: "/tesla-2.jpeg",
       tagline: "Schedule a Demo Drive",
     },
     {
       model: "Model X",
-      image: "../../assets/tesla-3.jpeg",
+      image: "/tesla-3.jpeg",
       tagline: "Schedule a Demo Drive",
     },
     {
       model: "Model Y",
-      image: "../../assets/tesla-4.jpeg",
+      image: "/tesla-4.jpeg",
       tagline: "Schedule a Demo Drive",
     },
     {
       model: "Solar Roof",
-      image: "../../assets/tesla-5.jpeg",
+      image: "/tesla-5.jpeg",
       tagline: "Lowest Cost Solar Panels in America",
     },
     {
       model: "Solar Panels",
-      image: "../../assets/tesla-6.jpeg",
+      image: "/tesla-6.jpeg",
       tagline: "Produce Clean Energy From Your Roof",
     },
   ],

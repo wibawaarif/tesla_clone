@@ -8,7 +8,7 @@ const Main = ({ menu, scroll, childRef }) => {
       {menu.models.map((x, index) => (
         <section
           ref={childRef[index]}
-          style={{ backgroundImage: `url('${x.image}')` }}
+          style={{ backgroundImage: `url(${x.image})` }}
           key={`x-${index}`}
           className={`w-full h-full snap-start bg-no-repeat bg-center bg-cover`}
         >
