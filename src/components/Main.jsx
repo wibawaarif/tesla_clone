@@ -1,6 +1,6 @@
 import React, { useRef } from "react";
 import Fade from "react-reveal/Fade";
-import arrow from "../../designs/arrow.svg";
+import arrow from "../../assets/arrow.svg";
 
 const Main = ({ menu, scroll, childRef }) => {
   return (
